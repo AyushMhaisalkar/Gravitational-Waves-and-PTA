@@ -106,12 +106,6 @@ This reading project was carried out under the guidance of **Dr. Abhimanyu Susob
 
 ---
 
-## Citation
-
-If you use this material for learning or reference, please cite the report appropriately and acknowledge the original author.
-
----
-
 ## Author
 
 **Ayush Mhaisalkar**
